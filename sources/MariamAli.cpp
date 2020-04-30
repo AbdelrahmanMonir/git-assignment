@@ -1,7 +1,6 @@
 #include "MariamAli.h"
-void mariamramadan1()
-{
-cout << "mariam ali " << endl ;
-cout << "mariamramadan@aucegypt.edu" << endl ;
-return 0;
+
+void mariamramadan1(){
+	std::cout << "mariam ali " << std::endl ;
+	std::cout << "mariamramadan@aucegypt.edu" << std::endl ;
 }

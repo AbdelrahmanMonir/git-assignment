@@ -1,2 +1,2 @@
 #include  <iostream>
-void klarasoliman()
+void klarasoliman();
